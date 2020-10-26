@@ -1,7 +1,7 @@
 # Tictactoe
 Tic-tac-toe python project based on jetbrains course
 
-Program asks You for input of coordinates in formula of : >x y ; where x stands for vertical row, and y for horizontal one in the range of 1 1 to 
+Program asks You for input of coordinates in formula of :>x y ; where x stands for vertical row, and y for horizontal one in the range of 1 1 to 
 3 3.
 Board looks like this:
 
